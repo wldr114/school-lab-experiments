@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "edges": [
+    {
+      "from": "A",
+      "to": "B",
+      "cost": 4
+    },
+    {
+      "from": "A",
+      "to": "C",
+      "cost": 2
+    },
+    {
+      "from": "A",
+      "to": "D",
+      "cost": 7
+    },
+    {
+      "from": "B",
+      "to": "C",
+      "cost": 1
+    },
+    {
+      "from": "B",
+      "to": "D",
+      "cost": 5
+    },
+    {
+      "from": "C",
+      "to": "D",
+      "cost": 8
+    },
+    {
+      "from": "C",
+      "to": "E",
+      "cost": 10
+    },
+    {
+      "from": "D",
+      "to": "E",
+      "cost": 2
+    }
+  ]
+}
