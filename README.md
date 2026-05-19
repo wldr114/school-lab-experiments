@@ -1,1 +1,1 @@
-# school-lab-experiments
+# 存放学校里面的实验文件
